@@ -8,7 +8,8 @@ https://github.com/user-attachments/assets/e57fc698-0be6-4d43-850f-a59828eadc5d
 ## Tabela Nupcialidade:
 <img width="892" height="643" alt="Captura de tela 2026-05-28 223301" src="https://github.com/user-attachments/assets/57f0d188-4b4e-4555-87ea-0e7002617b30" />
 
-
+## Arquivo Power BI:
+https://drive.google.com/file/d/1hOZTQwENNEwCeDcWNe4MxJQz3tEXaA4t/view?usp=drive_link
 
 
 
